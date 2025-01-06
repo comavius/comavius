@@ -1,0 +1,12 @@
+{
+  "name": "comavius-readme",
+  "version": "1.0.0",
+  "description": "My GitHub README.md",
+  "scripts": {
+    "ci": "markdownlint-cli2 README.md"
+  },
+  "author": "comavius",
+  "devDependencies": {
+    "markdownlint-cli2": "^0.17.1"
+  }
+}
