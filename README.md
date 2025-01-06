@@ -1,4 +1,5 @@
-# comavius
+# こま🍁 / comavius
+
 [![comavius](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fcomavius)](https://atcoder.jp/users/comavius)
 
 ---
@@ -15,3 +16,4 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=comavius" />
 </a>
+[![a](https://run.kaist.ac.kr/badges/topcoder/kuratowski.svg)](a)
