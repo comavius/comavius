@@ -1,6 +1,7 @@
 # こま🍁 / comavius
 
 [![comavius](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fcomavius)](https://atcoder.jp/users/comavius)
+![This README.md is valid, readable and beautiful](https://img.shields.io/github/actions/workflow/status/comavius/comavius/ci.yaml)
 
 ---
 
